@@ -3,11 +3,9 @@ A decentralized cryptocurrency exchange where you can buy and sell Chancoin, an 
 
 
 Dependencies Used:
-Node.js 14.6.0
+Node.js 9.10.0
 Truffle v5.1.39
 Ganache Test Blockchain
-Solidity v0.5.16
-web3.js v1.2.1
-Redux Devtools
+Metamask Chrome Extension
 
 All code is located on the master branch. There is a picture of the final app UI as well as the app design diagram on the main branch. 
