@@ -8,3 +8,5 @@ Truffle v5.1.39
 Ganache Test Blockchain
 Solidity v0.5.16
 web3.js v1.2.1
+
+All code is located on the master branch. There is a picture of the final app UI as well as the app design diagram on that branch. 
